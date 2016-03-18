@@ -1,0 +1,21 @@
+html {
+  background-color: white;
+}
+
+.content {
+  width: 80%;
+  float right;
+}
+
+.intro {
+
+}
+
+.aboutMe {
+
+}
+
+.sidebar {
+  width: 20%;
+  float: right;
+}
