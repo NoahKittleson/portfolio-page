@@ -3,7 +3,7 @@
 ###Created by Noah Kittleson
 
 ##**Description**
-This is a web portfolio that displays some information about me along with various projects I have made and links to GitHub.  
+This is a web portfolio that displays some information about me along with various projects I have made and links to GitHub.  Displays my ability to use HTML, CSS, and Bootstrap.
 
 ##**Setup**
 This page should run on any modern browser.  Simply download the files and double click index.html to launch in your browser.  If you just want to see how it looks you can go [here](noahkittleson.gh-pages.io/portfolio-page).
