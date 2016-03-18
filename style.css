@@ -1,21 +1,32 @@
-html {
-  background-color: white;
+body {
+  background-color: #baa1a1;
 }
 
 .content {
-  width: 80%;
+  width: 75%;
   float right;
+  background-color: #c0ead8;
+  padding: 10px;
 }
 
-.intro {
+.intro  img {
+  float: right;
+}
+
+.aboutMe h2 {
+  text-align: center;
+}
+
+.experience {
 
 }
 
-.aboutMe {
+.interests {
 
 }
 
 .sidebar {
-  width: 20%;
+  width: 25%;
   float: right;
+  padding: 20px;
 }
