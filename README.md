@@ -6,7 +6,7 @@
 This is a web portfolio that displays some information about me along with various projects I have made and links to GitHub.  
 
 ##**Setup**
-This page should run on any modern browser.  Simply download the files and double click index.html to launch in your browser.  If you just want to see how it looks you can go [here](noahkittleson.gh-pages.io/portfolio).
+This page should run on any modern browser.  Simply download the files and double click index.html to launch in your browser.  If you just want to see how it looks you can go [here](noahkittleson.gh-pages.io/portfolio-page).
 
 ##**Technologies Used**
 * HTML
