@@ -9,12 +9,23 @@ body {
   padding: 10px;
 }
 
+.content hr {
+  border-color: #747474;
+}
+
 .intro  img {
   float: right;
+  width: 25%;
+  height: auto;
 }
 
 .aboutMe h2 {
   text-align: center;
+}
+
+.aboutMe hr {
+  width: 50%;
+  margin-left: 0;
 }
 
 .experience {
@@ -29,4 +40,15 @@ body {
   width: 25%;
   float: right;
   padding: 20px;
+}
+
+.indented {
+  padding: 20px;
+  font-style: italic;
+}
+
+.bookName {
+  font-size: 20px;
+  font-style: italic;
+  font-family: "Times New Roman", Times, serif;
 }
