@@ -6,6 +6,7 @@ body {
   width: 75%;
   float right;
   background-color: #c0ead8;
+  border: 3px solid #3b8e6b;
   padding: 10px;
 }
 
@@ -21,19 +22,6 @@ body {
 
 .aboutMe h2 {
   text-align: center;
-}
-
-.aboutMe hr {
-  width: 50%;
-  margin-left: 0;
-}
-
-.experience {
-
-}
-
-.interests {
-
 }
 
 .sidebar {
